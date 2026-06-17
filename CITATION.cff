@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "Geothermal Lithium ML: Calibrated Uncertainty Quantification Framework"
+authors:
+  - family-names: "Tut Haklidir"
+    given-names: "Füsun S."
+    affiliation: "Istanbul Bilgi University, Dept. of Energy Systems Engineering"
+  - family-names: "Haklidir"
+    given-names: "Mehmet"
+    affiliation: "TÜBİTAK BİLGEM, Artificial Intelligence Institute, Kocaeli, Türkiye"
+version: "1.0.0"
+date-released: "2026-06-17"
+license: MIT
+repository-code: "https://github.com/haklidir/geothermal-lithium-ml"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Tut Haklidir"
+      given-names: "Füsun S."
+    - family-names: "Haklidir"
+      given-names: "Mehmet"
+  title: "Predicting Dissolved Lithium in Geothermal Fluids from Routine Hydrogeochemistry: A Machine Learning Framework with Calibrated Uncertainty Quantification"
+  journal: "Earth Science Informatics"
+  year: 2026
