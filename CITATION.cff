@@ -21,4 +21,8 @@ preferred-citation:
       given-names: "Mehmet"
   title: "Predicting Dissolved Lithium in Geothermal Fluids from Routine Hydrogeochemistry: A Machine Learning Framework with Calibrated Uncertainty Quantification"
   journal: "Earth Science Informatics"
+  volume: 19
+  issue: 9
+  start: 159
   year: 2026
+  doi: 10.1007/s12145-026-02207-6

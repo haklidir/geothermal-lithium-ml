@@ -5,7 +5,7 @@ Code and data for the paper:
 > **Tut Haklidir, F.S. and Haklidir, M. (2026).** Predicting Dissolved Lithium
 > in Geothermal Fluids from Routine Hydrogeochemistry: A Machine Learning
 > Framework with Calibrated Uncertainty Quantification.
-> *Earth Science Informatics.*
+> *Earth Science Informatics*, 19(9), 159. https://doi.org/10.1007/s12145-026-02207-6
 
 This repository contains the curated dataset, the analysis code, and scripts
 that reproduce every table and figure in the paper. The framework predicts
